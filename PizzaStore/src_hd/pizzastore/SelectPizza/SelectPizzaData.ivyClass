@@ -1,4 +1,0 @@
-SelectPizzaData #class
-pizzastore.SelectPizza #namespace
-data pizzastore.Data #field
-data PERSISTENT #fieldModifier
